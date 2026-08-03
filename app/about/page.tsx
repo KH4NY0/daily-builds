@@ -1,0 +1,2 @@
+import { SiteHeader } from '@/components/SiteHeader'
+export default function About() { return <main><SiteHeader /><article className="build-note"><p className="eyebrow">ABOUT</p><h1>I build useful technology in public.</h1><p className="lede">I’m Lukhanyo Radebe, a creative software engineer in South Africa.</p><p>I build one useful thing every day—using design, Next.js, AI, and automation to respond to ordinary problems with practical digital tools.</p><p>The aim is simple: make useful technology feel clear, beautiful, and human.</p></article></main> }
